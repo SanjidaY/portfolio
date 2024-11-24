@@ -1,28 +1,31 @@
 # Software Engineer / Data Engineer
 
-#### Technical Skills: PHP, C#, Python, C/C++, JavaScript, R, MATLAB
+#### Technical Skills: Oracle Apex, PL/Sql, Python, C#, C/C++
 
 ## Education							       		
-- MSc, Distributed Systems Engineering	| Technische Universität Dresden (_2021-present_)	 			        		
-- BSc, Computer Science and Engineering | International Islamic University Chittagong (_May 2017_)
+- MSc, Distributed Systems Engineering	| Technische Universität Dresden (_2020-present_)	 			        		
+- BSc, Computer Science and Engineering | International Islamic University Chittagong (_2014_2018)
 
 ## Work Experience
-**Edge Artificial Intelligence (AI) Tooling Engineer @ Infineon Technologies AG(_May 2024 - Present_)**
- - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas
- - Languages: python, c, c++
- - Embedded Software development
+**Data Engineer @ Joynext GmbH(_May 2022 - Present_)**
+ - Tools: PyCharm, jupyter notebook, MLOps, TensorFlow, Numpy, Pandas, Linux, Airflow, Prefect
+ - Languages: python, sql
+ - Fine tuning & bug fixing, Machine Learning
 
-**Software Engineer @ Inter-Office GmbH (_June 2020 - April 2024_)**
-- Tools: Docker, Jenkins, CI/CD, Linux
-- Languages: PHP, JavaScript, TypeScript, MySql, Python
-- Test: Codeception, phpstan
-- Developed SaaS
-- Contribute to system design, develop, implement, test, and, release
+**Research Assistant (Programming Database Interface) @ Helmholtz-Zentrum Dresden - Rossendorf e.V.(_2021 - Mar 2022_)**
+- Tools: Git, GitLab, C++/Qt framework
+- Languages: Go, Pl/sql 
+- Test: Functional testing in web browsers and C++/Qt programs
+- Responsibilities: API design with a focus on usability, security, and performance; implementation in PL/SQL and Go; source code management and comprehensive documentation of functions and processes.
 
-**Software Developer @ CursorBD (_April 2018 - Jan 2019_)**
-- Checked client code for bugs and weaknesses using approved
-troubleshooting methods
-- Helping with day-to-day project tasks
+**Junior Oracle Developer @ UOCBD (_2019 - 2020_)**
+- Tools: Oracle APEX, SQL Developer
+- Languages: SQL, PL/SQL
+- Testing: Software testing and debugging during the development phase
+- Responsibilities: Participated in ERP system development, collaborated with team members to implement features, interacted with clients to gather requirements, and supported the testing and deployment process.
+
+**Oracle Developer @ R-creation (_2018 - 2019_)**
+- Collaborated as part of teams on various projects, focusing on ERP system development, database design, and implementation. 
 
 
 ## Expertise and Interest
@@ -30,19 +33,21 @@ troubleshooting methods
 - Distributed and scalable systems
 - API, RestFul-API
 - Micro-services
+- Automotive
 - Machine learning (Supervised Learning, UnSupervised Learning, Reinforcement Learning)
 - Artificial Intelligence 
 - Embedded System
 
 ## Tools and Programming Languages Skill set
 - Docker, K8s, CI/CD, Linux
-- Node.js, JavaScript, Typescript, Vanilla Js, Reactjs,
-- PHP, C#
-- C, C++, Python, R, Java
+- C#
+- C, C++, Python, R
+- Pl/sql, Oracle Apex 
 - Version Control: Git
 - SQL & NoSql,
 - DynamoDB, MongoDB
-- TensorFlow
+- TensorFlow, Scikit-learn, pytorch
+- Airflow, Prefect
 
 ## Languages
 
@@ -50,7 +55,7 @@ troubleshooting methods
 - _C1_
 
 **German**
-- _A1, A2_
+- _B1(Cont.)_
 
 **Bengali**
 - _Native_
